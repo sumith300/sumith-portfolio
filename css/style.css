@@ -590,6 +590,9 @@ aside {
     gap: 20px;
     flex-wrap: wrap;
   }
+  .nav-bar-container > li > a {
+    margin: 20px 0px;
+  }
   .form-input-field {
     flex-wrap: wrap;
   }
