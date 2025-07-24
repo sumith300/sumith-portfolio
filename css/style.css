@@ -99,12 +99,12 @@ aside {
 }
 .profile {
   width: 150px;
-  background: #373737;
-  border-radius: 20px;
+
 }
 
 .profile > img {
   width: 100%;
+  border-radius: 20px;
 }
 
 .profile-heading h1 {
